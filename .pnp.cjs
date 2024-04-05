@@ -47,6 +47,7 @@ const RAW_RUNTIME_STATE =
           ["json-server", "npm:1.0.0-alpha.23"],\
           ["prettier", "npm:3.2.5"],\
           ["react", "npm:18.2.0"],\
+          ["react-day-picker", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:8.10.0"],\
           ["react-dom", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:18.2.0"],\
           ["react-scripts", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:5.0.1"],\
           ["sass", "npm:1.74.1"],\
@@ -13872,6 +13873,7 @@ const RAW_RUNTIME_STATE =
           ["json-server", "npm:1.0.0-alpha.23"],\
           ["prettier", "npm:3.2.5"],\
           ["react", "npm:18.2.0"],\
+          ["react-day-picker", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:8.10.0"],\
           ["react-dom", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:18.2.0"],\
           ["react-scripts", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:5.0.1"],\
           ["sass", "npm:1.74.1"],\
@@ -15843,6 +15845,32 @@ const RAW_RUNTIME_STATE =
           ["raf", "npm:3.4.1"],\
           ["regenerator-runtime", "npm:0.13.11"],\
           ["whatwg-fetch", "npm:3.6.20"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["react-day-picker", [\
+      ["npm:8.10.0", {\
+        "packageLocation": "./.yarn/cache/react-day-picker-npm-8.10.0-f78f1a9c78-e9868aced1.zip/node_modules/react-day-picker/",\
+        "packageDependencies": [\
+          ["react-day-picker", "npm:8.10.0"]\
+        ],\
+        "linkType": "SOFT"\
+      }],\
+      ["virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:8.10.0", {\
+        "packageLocation": "./.yarn/__virtual__/react-day-picker-virtual-b791d5ef14/0/cache/react-day-picker-npm-8.10.0-f78f1a9c78-e9868aced1.zip/node_modules/react-day-picker/",\
+        "packageDependencies": [\
+          ["react-day-picker", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:8.10.0"],\
+          ["@types/date-fns", null],\
+          ["@types/react", "npm:18.2.74"],\
+          ["date-fns", "npm:3.6.0"],\
+          ["react", "npm:18.2.0"]\
+        ],\
+        "packagePeers": [\
+          "@types/date-fns",\
+          "@types/react",\
+          "date-fns",\
+          "react"\
         ],\
         "linkType": "HARD"\
       }]\
