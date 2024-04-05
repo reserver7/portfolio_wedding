@@ -1,0 +1,13 @@
+{
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "typescript.tsdk": ".yarn/sdks/typescript/lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true,
+  "eslint.nodePath": ".yarn/sdks",
+  "prettier.prettierPath": ".yarn/sdks/prettier/index.cjs",
+  "gotoSymbolStack.currentStackPosition": 0,
+  "gotoSymbolStack.maxStackPosition": 0,
+  "gotoSymbolStack.filePositionInfo": []
+}
