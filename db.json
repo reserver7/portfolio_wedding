@@ -27,7 +27,8 @@
       "name": "류우선",
       "account": {
         "bankName": "신한",
-        "accountNumber": "110-356-123433"
+        "accountNumber": "110-356-123433",
+        "kakaopayLink": "https://qr.kakaopay.com/FS8vNX3yE"
       },
       "phoneNumber": "01045532323",
       "parents": [
