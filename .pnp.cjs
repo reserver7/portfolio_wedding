@@ -50,6 +50,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:18.2.0"],\
           ["react-scripts", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:5.0.1"],\
           ["sass", "npm:1.74.1"],\
+          ["swiper", "npm:9.4.1"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["web-vitals", "npm:2.1.4"]\
         ],\
@@ -13874,6 +13875,7 @@ const RAW_RUNTIME_STATE =
           ["react-dom", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:18.2.0"],\
           ["react-scripts", "virtual:dbb61112be6705d390a2c6a9f2c7841543ad834c4744d43f339b70b1bd1bb67c29eb5a9009246bbb29b16e6adc7bf4b625a5474fca5e81cde14ad0cf78a75eb7#npm:5.0.1"],\
           ["sass", "npm:1.74.1"],\
+          ["swiper", "npm:9.4.1"],\
           ["typescript", "patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"],\
           ["web-vitals", "npm:2.1.4"]\
         ],\
@@ -17063,6 +17065,15 @@ const RAW_RUNTIME_STATE =
         "linkType": "HARD"\
       }]\
     ]],\
+    ["ssr-window", [\
+      ["npm:4.0.2", {\
+        "packageLocation": "./.yarn/cache/ssr-window-npm-4.0.2-01f9c0151e-e91f690f42.zip/node_modules/ssr-window/",\
+        "packageDependencies": [\
+          ["ssr-window", "npm:4.0.2"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
     ["ssri", [\
       ["npm:10.0.5", {\
         "packageLocation": "./.yarn/cache/ssri-npm-10.0.5-1a7557d04d-b091f2ae92.zip/node_modules/ssri/",\
@@ -17505,6 +17516,16 @@ const RAW_RUNTIME_STATE =
           ["csso", "npm:4.2.0"],\
           ["picocolors", "npm:1.0.0"],\
           ["stable", "npm:0.1.8"]\
+        ],\
+        "linkType": "HARD"\
+      }]\
+    ]],\
+    ["swiper", [\
+      ["npm:9.4.1", {\
+        "packageLocation": "./.yarn/cache/swiper-npm-9.4.1-38d46d35a3-29feb1e92c.zip/node_modules/swiper/",\
+        "packageDependencies": [\
+          ["swiper", "npm:9.4.1"],\
+          ["ssr-window", "npm:4.0.2"]\
         ],\
         "linkType": "HARD"\
       }]\
