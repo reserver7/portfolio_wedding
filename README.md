@@ -1,7 +1,7 @@
 # Wedding
 
 - React, Typescript를 이용한 모바일 청첩장 프로젝트 입니다.
-- [Pull Request](https://github.com/reserver7/portfolio-next-map/pulls?q=is%3Apr+is%3Aclosed) 탭에서 각 기능별 코드를 확인할 수 있습니다.
+- [Pull Request](https://github.com/reserver7/portfolio_wedding/pulls?q=is%3Apr+is%3Aclosed) 탭에서 각 기능별 코드를 확인할 수 있습니다.
 - 사이트 링크: [https://portfolio-next-map-hazel.vercel.app/](https://portfolio-next-map-hazel.vercel.app/)
 
   ![01](https://github.com/reserver7/portfolio-next-map/assets/78328320/03f56c09-94ab-4af6-be48-e5e9c27ef487)
